@@ -31,7 +31,7 @@ nav a{
     float: right;
     margin: 0px;
     padding-right: 60px;
-    margin-top: 5px;
+    margin-top: 10px;
     /* margin-left: 50px; */
     
 }
@@ -156,7 +156,7 @@ footer a{
 .box {
   position: relative;
   width: 420px;
-  height: 400px;
+  height: 450px;
   display: flex;
   justify-content: center;
   align-items: center;
